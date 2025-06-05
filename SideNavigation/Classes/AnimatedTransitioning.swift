@@ -6,6 +6,9 @@
 //  Copyright © 2017年 Jack. All rights reserved.
 //
 
+import ObjectiveC
+import Foundation
+import UIKit
 
 enum TransitioningType {
     case present

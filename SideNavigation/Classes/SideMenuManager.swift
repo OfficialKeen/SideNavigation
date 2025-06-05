@@ -6,6 +6,11 @@
 //  Copyright © 2017年 Jack. All rights reserved.
 //
 
+import ObjectiveC
+import CoreFoundation
+import Foundation
+import UIKit
+
 public enum Direction {
     case left
     case right

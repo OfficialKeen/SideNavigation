@@ -6,6 +6,8 @@
 //  Copyright © 2017年 Jack. All rights reserved.
 //
 
+import UIKit
+
 class PresentationController: UIPresentationController {
     var direction: Direction = .left
     var sideScale: CGFloat = 1.0 / 3.0

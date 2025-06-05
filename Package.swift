@@ -19,6 +19,6 @@ let package = Package(
         .target(
             name: "SideNavigation",
             dependencies: [],
-            path: "SideNavigation"), // Menambahkan path kustom untuk target SideNavigation
+            path: "SideNavigation/Classes"), // Menambahkan path kustom untuk target SideNavigation
     ]
 )
